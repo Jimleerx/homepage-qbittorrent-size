@@ -1,11 +1,11 @@
 # homepage-qbittorrent-size
 #### 修改qbittorrent widget显示上传速度、下载速度、做种数量、做种体积
 #### 修改字体为 海派腔调森系圆
-![Preview](https://github.com/Jimleerx/homepage-qbittorrent-size/blob/main/Preview.png)
+![Preview](https://ghproxy.com/https://github.com/Jimleerx/homepage-qbittorrent-size/blob/main/Preview.png)
 
 ## 使用方法
 ```
-wget https://github.com/Jimleerx/homepage-qbittorrent-size/raw/main/patch.sh | sh
+wget https://ghproxy.com/https://github.com/Jimleerx/homepage-qbittorrent-size/raw/main/patch.sh | sh
 ```
 
 #### /src/widgets/qbittorrent/component.jsx
