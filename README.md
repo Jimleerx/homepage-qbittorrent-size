@@ -6,7 +6,7 @@
 ## 使用方法
 在homepage容器里执行
 ```
-wget https://ghproxy.com/https://github.com/Jimleerx/homepage-qbittorrent-size/raw/main/patch.sh | sh
+sh -c "$(wget --no-check-certificate https://cdn.jsdelivr.net/gh/Jimleerx/homepage-qbittorrent-size@master/patch.sh -qO -)"
 ```
 
 #### /src/widgets/qbittorrent/component.jsx
