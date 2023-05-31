@@ -4,6 +4,7 @@
 ![Preview](https://ghproxy.com/https://github.com/Jimleerx/homepage-qbittorrent-size/blob/main/Preview.png)
 
 ## 使用方法
+在homepage容器里执行
 ```
 wget https://ghproxy.com/https://github.com/Jimleerx/homepage-qbittorrent-size/raw/main/patch.sh | sh
 ```
